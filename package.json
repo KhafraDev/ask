@@ -1,0 +1,26 @@
+{
+  "name": "ask",
+  "version": "1.0.0",
+  "description": "Prompt users in CLI",
+  "main": "ask.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node -e \"console.log('sorry no tests');\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khafradev/ask.git"
+  },
+  "keywords": [
+    "ask",
+    "prompt",
+    "prompts",
+    "readline"
+  ],
+  "author": "Khafra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khafradev/ask/issues"
+  },
+  "homepage": "https://github.com/khafradev/ask#readme"
+}
